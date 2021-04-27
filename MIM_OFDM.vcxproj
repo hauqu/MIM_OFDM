@@ -126,7 +126,7 @@
     <ClCompile Include="无线通信技术实验.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="MIM_OFDM.h" />
+    <ClInclude Include="MIMO_OFDM.h" />
   </ItemGroup>
   <ItemGroup>
     <None Include="readme.md" />
